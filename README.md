@@ -1,4 +1,4 @@
-#EDA - Ecommerce Dataset
+# EDA - Ecommerce Dataset
 
 Uma empresa internacional de comércio eletrônico(E-commerce)que vende produtos eletrônicos deseja descobrir informações importantes de seu banco de dados de clientes.
 
